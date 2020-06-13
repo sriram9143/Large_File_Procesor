@@ -46,6 +46,7 @@ lfp_service creates 1.Log directory - here all the detailed logs are stored.\
         Aaron Allison|1\
         Aaron Alvarado|3\
         Aaron Alvarez|5\
+  5.We can also see the overall time taken and performance either in the console or logs 
   # NOTE
   Overall effective learnings from this application is using Oops concepts in very high standards.
   
